@@ -1,0 +1,26 @@
+{
+  "name": "backend-formulario-b2agro",
+  "version": "1.0.0",
+  "description": "Backend para formulário usando express e mongodb",
+  "homepage": "https://github.com/DiogoDemetrius/backend-formulario-b2agro#readme",
+  "bugs": {
+    "url": "https://github.com/DiogoDemetrius/backend-formulario-b2agro/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiogoDemetrius/backend-formulario-b2agro.git"
+  },
+  "license": "ISC",
+  "author": "Diogo Demetrius",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.2"
+  }
+}
