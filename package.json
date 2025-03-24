@@ -13,8 +13,12 @@
   "license": "ISC",
   "author": "Diogo Demetrius",
   "type": "commonjs",
+  "engines": {
+    "node": "22.x"
+  },
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
